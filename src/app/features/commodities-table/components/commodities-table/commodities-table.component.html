@@ -4,12 +4,12 @@
   <ng-template pTemplate="header">
     <tr>
       <th>
-        <span>Category</span>
-<!--        <input pInputText type="text" #categoryFilter (input)="customFilter(categoryFilter.value, 'category')" placeholder="Category">-->
-      </th>
-      <th>
         <span>Name</span>
 <!--        <input pInputText type="text" #nameFilter (input)="customFilter(nameFilter.value, 'name')" placeholder="Name">-->
+      </th>
+      <th>
+        <span>Category</span>
+        <!--        <input pInputText type="text" #categoryFilter (input)="customFilter(categoryFilter.value, 'category')" placeholder="Category">-->
       </th>
       <th>
         <span>Price</span>
@@ -20,8 +20,8 @@
 
   <ng-template pTemplate="body" let-rowData>
     <tr>
-      <td>{{rowData.category}}</td>
       <td>{{rowData.name}}</td>
+      <td>{{rowData.category}}</td>
       <td>{{rowData.price | currency}}</td>
     </tr>
   </ng-template>
