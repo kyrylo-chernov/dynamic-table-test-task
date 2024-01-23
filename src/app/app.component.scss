@@ -1,0 +1,11 @@
+.main-content {
+  margin-left: 0;
+
+  &.sidebar-visible {
+    margin-left: 20rem;
+  }
+
+  //&.closed {
+  //  margin-left: 0;
+  //}
+}

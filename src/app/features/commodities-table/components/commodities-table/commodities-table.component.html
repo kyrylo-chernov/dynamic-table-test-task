@@ -4,13 +4,16 @@
   <ng-template pTemplate="header">
     <tr>
       <th>
-        <input pInputText type="text" #categoryFilter (input)="customFilter(categoryFilter.value, 'category')" placeholder="Category">
+        <span>Category</span>
+<!--        <input pInputText type="text" #categoryFilter (input)="customFilter(categoryFilter.value, 'category')" placeholder="Category">-->
       </th>
       <th>
-        <input pInputText type="text" #nameFilter (input)="customFilter(nameFilter.value, 'name')" placeholder="Name">
+        <span>Name</span>
+<!--        <input pInputText type="text" #nameFilter (input)="customFilter(nameFilter.value, 'name')" placeholder="Name">-->
       </th>
       <th>
-        <input pInputText type="text" #priceFilter (input)="customFilter(priceFilter.value, 'price')" placeholder="Price">
+        <span>Price</span>
+<!--        <input pInputText type="text" #priceFilter (input)="customFilter(priceFilter.value, 'price')" placeholder="Price">-->
       </th>
     </tr>
   </ng-template>

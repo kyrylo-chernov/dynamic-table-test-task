@@ -1,2 +1,13 @@
-<h1>Dynamic commodities table</h1>
-<app-commodities-table></app-commodities-table>
+<p-sidebar [dismissible]="false" [modal]="false" [(visible)]="isSidebarVisible">
+  <h3>Filters</h3>
+</p-sidebar>
+
+<main class="main-content" [class.sidebar-visible]="isSidebarVisible">
+  <app-main-header>
+    <span heading>Dynamic commodities table</span>
+    <div actions> <p-button label="Open Filters" *ngIf="!isSidebarVisible" (onClick)="isSidebarVisible = true"></p-button></div>
+  </app-main-header>
+
+  <app-commodities-table></app-commodities-table>
+</main>
+

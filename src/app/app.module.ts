@@ -4,12 +4,14 @@ import { BrowserModule } from '@angular/platform-browser';
 import {TableModule} from 'primeng/table';
 import {InputTextModule} from 'primeng/inputtext';
 import {CommoditiesTableComponent} from '@features/commodities-table';
-
+import {SidebarModule} from 'primeng/sidebar';
 import { AppComponent } from './app.component';
+import {MainHeaderComponent} from '@components';
+import {ButtonModule} from 'primeng/button';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
   ],
   imports: [
     BrowserModule,
@@ -17,6 +19,9 @@ import { AppComponent } from './app.component';
     TableModule,
     InputTextModule,
     CommoditiesTableComponent,
+    SidebarModule,
+    MainHeaderComponent,
+    ButtonModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
