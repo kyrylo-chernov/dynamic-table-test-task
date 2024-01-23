@@ -8,6 +8,8 @@ import {SidebarModule} from 'primeng/sidebar';
 import { AppComponent } from './app.component';
 import {MainHeaderComponent} from '@components';
 import {ButtonModule} from 'primeng/button';
+import {CommoditiesFilterFormComponent} from '@features/commodities-filter-form';
+import {CommoditiesNameSearchComponent} from '@features/commodities-name-search';
 
 @NgModule({
   declarations: [
@@ -22,6 +24,8 @@ import {ButtonModule} from 'primeng/button';
     SidebarModule,
     MainHeaderComponent,
     ButtonModule,
+    CommoditiesFilterFormComponent,
+    CommoditiesNameSearchComponent,
   ],
   providers: [],
   bootstrap: [AppComponent]

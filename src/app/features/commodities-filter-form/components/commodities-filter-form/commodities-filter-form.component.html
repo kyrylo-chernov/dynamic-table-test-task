@@ -1,0 +1,16 @@
+<form [formGroup]="filterForm">
+  <div class="control-wrapper">
+    <label for="category">Category:</label>
+    <input type="text" class="control" id="category" pInputText formControlName="category">
+  </div>
+
+  <div class="control-wrapper">
+    <label for="priceFrom">Price From:</label>
+    <p-inputNumber styleClass="control" id="priceFrom" formControlName="priceFrom"></p-inputNumber>
+  </div>
+
+  <div class="control-wrapper">
+    <label for="priceTo">Price To:</label>
+    <p-inputNumber styleClass="control" id="priceTo" formControlName="priceTo"></p-inputNumber>
+  </div>
+</form>

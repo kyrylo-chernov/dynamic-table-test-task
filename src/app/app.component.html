@@ -1,5 +1,6 @@
 <p-sidebar [dismissible]="false" [modal]="false" [(visible)]="isSidebarVisible">
   <h3>Filters</h3>
+  <app-commodities-filter-form></app-commodities-filter-form>
 </p-sidebar>
 
 <main class="main-content" [class.sidebar-visible]="isSidebarVisible">
@@ -7,6 +8,8 @@
     <span heading>Dynamic commodities table</span>
     <div actions> <p-button label="Open Filters" *ngIf="!isSidebarVisible" (onClick)="isSidebarVisible = true"></p-button></div>
   </app-main-header>
+
+  <app-commodities-name-search></app-commodities-name-search>
 
   <app-commodities-table></app-commodities-table>
 </main>

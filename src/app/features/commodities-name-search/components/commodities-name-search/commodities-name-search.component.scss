@@ -1,0 +1,8 @@
+.heading {
+  color: var(--text-color-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.control {
+  width: clamp(12rem, 50%, 20rem);
+}

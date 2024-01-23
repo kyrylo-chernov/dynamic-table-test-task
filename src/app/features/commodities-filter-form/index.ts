@@ -1,0 +1,3 @@
+export {
+  CommoditiesFilterFormComponent
+} from './components';

@@ -1,0 +1,2 @@
+export {CommoditiesNameSearchComponent} from './components';
+
