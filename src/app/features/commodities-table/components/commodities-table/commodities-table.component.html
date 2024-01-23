@@ -1,0 +1,25 @@
+<p-table [value]="data" [paginator]="true" [totalRecords]="data.length" [rows]="5"
+         [rowsPerPageOptions]="[5, 10, 20]">
+
+  <ng-template pTemplate="header">
+    <tr>
+      <th>
+        <input pInputText type="text" #categoryFilter (input)="customFilter(categoryFilter.value, 'category')" placeholder="Category">
+      </th>
+      <th>
+        <input pInputText type="text" #nameFilter (input)="customFilter(nameFilter.value, 'name')" placeholder="Name">
+      </th>
+      <th>
+        <input pInputText type="text" #priceFilter (input)="customFilter(priceFilter.value, 'price')" placeholder="Price">
+      </th>
+    </tr>
+  </ng-template>
+
+  <ng-template pTemplate="body" let-rowData>
+    <tr>
+      <td>{{rowData.category}}</td>
+      <td>{{rowData.name}}</td>
+      <td>{{rowData.price | currency}}</td>
+    </tr>
+  </ng-template>
+</p-table>
