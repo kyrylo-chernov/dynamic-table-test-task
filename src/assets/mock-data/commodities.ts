@@ -31,13 +31,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844ce9bedb02829d9c0",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Jacket 71",
     "price": 293
   },
   {
     "id": "65afe844beeae31cf87c0b1d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Back massager 57",
     "price": 13
   },
@@ -49,13 +49,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84466e34976151c2055",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Television 35",
     "price": 979
   },
   {
     "id": "65afe8449e393f3a334a842a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Cookbook 34",
     "price": 931
   },
@@ -67,7 +67,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844bf19aa17ff099cdb",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Travel toiletry bag 20",
     "price": 943
   },
@@ -79,7 +79,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844e6bb3480a3a35afe",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Wireless keyboard 39",
     "price": 734
   },
@@ -103,13 +103,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8441f1cc154916fa45b",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Desk lamp 6",
     "price": 840
   },
   {
     "id": "65afe844b5d9b8255170b798",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "T-shirt 66",
     "price": 87
   },
@@ -121,13 +121,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844a444cc47fb5cc6de",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Electric toothbrush 24",
     "price": 280
   },
   {
     "id": "65afe844fab3488b8c52b030",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Jeans 78",
     "price": 353
   },
@@ -169,13 +169,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8445254f811d3058dd3",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Bike helmet 13",
     "price": 307
   },
   {
     "id": "65afe84416c7d3c349f18ff0",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Duffle bag 25",
     "price": 347
   },
@@ -193,7 +193,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8449f68d3001169c176",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Bluetooth speaker 8",
     "price": 581
   },
@@ -235,13 +235,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8447b6a0f34ef2cee19",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Inflatable mattress 56",
     "price": 260
   },
   {
     "id": "65afe8443750f67a9a3cf3e8",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Artificial plant 25",
     "price": 798
   },
@@ -295,19 +295,19 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844764e640361de74a4",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Watch 5",
     "price": 460
   },
   {
     "id": "65afe844a3a7f4bc5732be41",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Backpack 65",
     "price": 354
   },
   {
     "id": "65afe8442fe92719a4ef0abf",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Yoga mat 78",
     "price": 300
   },
@@ -325,19 +325,19 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8446d42ad9ea59f7c9c",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Electric fan 65",
     "price": 263
   },
   {
     "id": "65afe844fee8f02f24ca324b",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Vacuum cleaner 5",
     "price": 903
   },
   {
     "id": "65afe8447f4b6d8632094b26",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Backpack 95",
     "price": 438
   },
@@ -373,7 +373,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844c4154fcf52cb64e0",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Refrigerator 41",
     "price": 342
   },
@@ -409,7 +409,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844186d8e81b46d6417",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Tent 47",
     "price": 948
   },
@@ -445,7 +445,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844190c858952872354",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Art supplies 47",
     "price": 777
   },
@@ -463,7 +463,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84412fa78154d0cdd01",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Crockpot 10",
     "price": 329
   },
@@ -499,13 +499,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844a672b0fc2723d4cf",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Backpack 34",
     "price": 872
   },
   {
     "id": "65afe844945aa2f2b476bf4a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Cooling towel 27",
     "price": 723
   },
@@ -547,13 +547,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844cae70a6dc015c73d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Pillow 56",
     "price": 212
   },
   {
     "id": "65afe844fb700223b7665b42",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Towels 7",
     "price": 572
   },
@@ -595,7 +595,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844ab8455dc75d884c9",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Backpack 54",
     "price": 524
   },
@@ -643,13 +643,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84499e9e5e2331e1fd4",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Bike helmet 45",
     "price": 38
   },
   {
     "id": "65afe844cb45fda49d3ceaf1",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Easel 91",
     "price": 640
   },
@@ -661,7 +661,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8440cd24e9a73dcfd0c",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Easel 24",
     "price": 668
   },
@@ -709,7 +709,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844d2eee51a17336cb9",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Dining table 81",
     "price": 173
   },
@@ -799,7 +799,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844e51341513f9b5ece",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Pocket knife 71",
     "price": 653
   },
@@ -865,7 +865,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84466a1cc8377902356",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Coffee table 98",
     "price": 725
   },
@@ -907,7 +907,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844a0a64346578e67ac",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Oven 98",
     "price": 772
   },
@@ -925,7 +925,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844b6030ecc1f655c41",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Chess board 46",
     "price": 9
   },
@@ -997,7 +997,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844bde3a9eb40d8d285",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Tennis racket 31",
     "price": 86
   },
@@ -1027,7 +1027,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844baded63018b23ffd",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Hiking boots 36",
     "price": 921
   },
@@ -1051,19 +1051,19 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844717617fefdaa1ac1",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Throw blanket 64",
     "price": 370
   },
   {
     "id": "65afe844d9998bfbaf6dde08",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Back massager 27",
     "price": 488
   },
   {
     "id": "65afe8446e41e7b09d3ed67d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Hiking boots 25",
     "price": 232
   },
@@ -1087,7 +1087,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844a00cc828e00cc649",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Surge protector 41",
     "price": 330
   },
@@ -1141,7 +1141,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84488c17c155a47c4f9",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Pencil case 54",
     "price": 127
   },
@@ -1153,13 +1153,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844015720b96f91b49d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Bluetooth speaker 6",
     "price": 619
   },
   {
     "id": "65afe844c6c440e6b48690cd",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Binoculars 89",
     "price": 989
   },
@@ -1183,7 +1183,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844dc4f02915b1549c5",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Running shoes 29",
     "price": 171
   },
@@ -1207,7 +1207,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844b7c156f3d6de500e",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Chess board 82",
     "price": 573
   },
@@ -1225,7 +1225,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844918e9872ef735985",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sunscreen 21",
     "price": 700
   },
@@ -1237,7 +1237,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84416b26889468ca24a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Egg cooker 41",
     "price": 379
   },
@@ -1249,7 +1249,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8444ceae5f2179d0e67",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Ski gloves 87",
     "price": 322
   },
@@ -1273,7 +1273,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8446b7d87901be24b2e",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Pillow 22",
     "price": 606
   },
@@ -1327,13 +1327,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844e73d06753e4d3972",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Television 31",
     "price": 998
   },
   {
     "id": "65afe84434612162f7d19e70",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Surge protector 29",
     "price": 162
   },
@@ -1363,7 +1363,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8443a8463b3247905d0",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Hiking boots 61",
     "price": 685
   },
@@ -1417,7 +1417,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8448db23f1256115578",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Television 10",
     "price": 17
   },
@@ -1471,7 +1471,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8443fb32562995f8f69",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Bluetooth speaker 80",
     "price": 609
   },
@@ -1507,7 +1507,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844f03c691540b367a8",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sunglasses 6",
     "price": 575
   },
@@ -1537,13 +1537,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844b32e5942069d2e7c",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Water filter 26",
     "price": 309
   },
   {
     "id": "65afe844dce409574b94a2cb",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sneakers 97",
     "price": 375
   },
@@ -1555,7 +1555,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84425b9b781cea9a7d9",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Water filter 23",
     "price": 595
   },
@@ -1585,19 +1585,19 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844453a2db5f9600a0d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Fleece blanket 4",
     "price": 599
   },
   {
     "id": "65afe844177c07df814df379",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Fishing rod 94",
     "price": 252
   },
   {
     "id": "65afe8446de1d343d02ec377",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Wallet 30",
     "price": 505
   },
@@ -1627,13 +1627,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8440b0ef68326fd030a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Picnic basket 76",
     "price": 171
   },
   {
     "id": "65afe8445e354673bf40c62a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Tent 70",
     "price": 786
   },
@@ -1645,13 +1645,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8446292b3e2ff3375a4",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Running shoes 41",
     "price": 209
   },
   {
     "id": "65afe84495a260d6bee2fcd3",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sneakers 37",
     "price": 788
   },
@@ -1675,7 +1675,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844010530d9c6f7f269",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Ski gloves 46",
     "price": 604
   },
@@ -1711,7 +1711,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844b4a4cf6fc4279a8d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Toaster 51",
     "price": 782
   },
@@ -1723,7 +1723,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844c800ca211c54e95f",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Guitar 2",
     "price": 493
   },
@@ -1735,7 +1735,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8443eae719062fa156f",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Handheld vacuum 18",
     "price": 901
   },
@@ -1753,19 +1753,19 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84459e844f41f1f8032",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Office chair 96",
     "price": 232
   },
   {
     "id": "65afe844eed6aa52c558ebe1",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Curtains 97",
     "price": 150
   },
   {
     "id": "65afe844dd51301304c8a94a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Printer 64",
     "price": 189
   },
@@ -1819,7 +1819,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84420e860c4ed051216",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Couch 65",
     "price": 420
   },
@@ -1831,7 +1831,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844913933fe65a4f4e8",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Oven 40",
     "price": 918
   },
@@ -1843,7 +1843,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8447258de206801f723",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Pencil case 83",
     "price": 269
   },
@@ -1867,7 +1867,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844a7d51e96fe8b878a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Guitar 28",
     "price": 245
   },
@@ -1903,7 +1903,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844b07f7dddaa2ebbb7",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Hand sanitizer 26",
     "price": 736
   },
@@ -1915,7 +1915,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84464491b2d48ef416b",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Coffee table 58",
     "price": 842
   },
@@ -1933,7 +1933,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8449a710394a2394da5",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Plant pot 55",
     "price": 294
   },
@@ -1981,19 +1981,19 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844ca64443b3d17c1c4",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Jeans 63",
     "price": 108
   },
   {
     "id": "65afe8444ddfabefddce788c",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Snow boots 24",
     "price": 294
   },
   {
     "id": "65afe844e6ced0c5bb3a7b81",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Ski gloves 74",
     "price": 753
   },
@@ -2011,7 +2011,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8444bd8041385169a1d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Towels 99",
     "price": 421
   },
@@ -2023,7 +2023,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8444cd42652543518f6",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Fire extinguisher 41",
     "price": 177
   },
@@ -2089,7 +2089,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844c6423087fe9314e3",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Running shoes 4",
     "price": 942
   },
@@ -2143,7 +2143,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8441a3238a83f4c0d47",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Guitar 35",
     "price": 190
   },
@@ -2167,7 +2167,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8446206c039065393c6",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sneakers 16",
     "price": 563
   },
@@ -2227,7 +2227,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8443baa643abafd0a47",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Plant 75",
     "price": 223
   },
@@ -2281,7 +2281,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84449c19364bad172f0",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sofa 13",
     "price": 846
   },
@@ -2299,7 +2299,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844612fe0f9d41bc79c",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Headphones 76",
     "price": 671
   },
@@ -2323,7 +2323,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84470c7e285eb66802f",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Basketball hoop 7",
     "price": 711
   },
@@ -2407,13 +2407,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844bb1957589d4b48f2",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sunglasses 41",
     "price": 553
   },
   {
     "id": "65afe84465f81688f75bf9ff",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Grill pan 9",
     "price": 761
   },
@@ -2437,13 +2437,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8440915ffb782ec55fc",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Cutting board 40",
     "price": 275
   },
   {
     "id": "65afe84431c6ce9e1b94ebab",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Jacket 81",
     "price": 295
   },
@@ -2509,7 +2509,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8446b63bb23c6181726",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Umbrella 6",
     "price": 845
   },
@@ -2521,7 +2521,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8447c98523a9eafbf82",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Board shorts 35",
     "price": 158
   },
@@ -2557,7 +2557,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8442862b7d6b90e4e46",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Electric toothbrush 2",
     "price": 307
   },
@@ -2617,7 +2617,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844ad097e6bdad9dbde",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Basketball 63",
     "price": 801
   },
@@ -2635,7 +2635,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844253c3578959c0486",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Vacuum cleaner 87",
     "price": 192
   },
@@ -2653,7 +2653,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8445540100e9be1c578",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Pencil case 20",
     "price": 410
   },
@@ -2695,13 +2695,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84423006e48d744b31f",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Windbreaker 59",
     "price": 597
   },
   {
     "id": "65afe8442b5b36ae5cc4e1bb",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Bike helmet 53",
     "price": 858
   },
@@ -2719,13 +2719,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844bb23a6f300e20221",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Towels 31",
     "price": 567
   },
   {
     "id": "65afe84428a4cab994d024f3",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Wall clock 33",
     "price": 591
   },
@@ -2755,19 +2755,19 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84471571827bf135fe4",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "T-shirt 85",
     "price": 641
   },
   {
     "id": "65afe844de2e69e08abf9d18",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Inflatable mattress 68",
     "price": 713
   },
   {
     "id": "65afe844ee795314e2d121c0",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Travel toiletry bag 1",
     "price": 162
   },
@@ -2809,31 +2809,31 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844fe05ce981fdf52c4",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Printer 43",
     "price": 583
   },
   {
     "id": "65afe844d6b0e802f405dcc3",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Smartphone 56",
     "price": 254
   },
   {
     "id": "65afe8441dbdacba4d402b9e",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Solar charger 68",
     "price": 293
   },
   {
     "id": "65afe844d8a7da17d106edf0",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Fishing rod 9",
     "price": 973
   },
   {
     "id": "65afe844bd1cdee3d3d5ea81",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Travel toiletry bag 7",
     "price": 414
   },
@@ -2857,7 +2857,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84449fcf99b109b6595",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Chess board 43",
     "price": 66
   },
@@ -2881,7 +2881,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8445d28d36b265d65b7",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Bedside lamp 85",
     "price": 289
   },
@@ -2959,7 +2959,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84412e39d198c3b41d1",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Towels 57",
     "price": 266
   },
@@ -3001,7 +3001,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8443e81cd3233fc270e",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Alarm clock 29",
     "price": 964
   },
@@ -3019,13 +3019,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844894663390e8ba04d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sunscreen 27",
     "price": 75
   },
   {
     "id": "65afe84455a44d1cc243716d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Camera 88",
     "price": 12
   },
@@ -3037,13 +3037,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844db6af35fb6ba1546",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Hat 27",
     "price": 328
   },
   {
     "id": "65afe84448e632eb8fca652d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Chess board 67",
     "price": 884
   },
@@ -3055,7 +3055,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84462ec5ce4b169637e",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Carpet 60",
     "price": 998
   },
@@ -3079,7 +3079,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8440fb52d3e15237706",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Desk 58",
     "price": 319
   },
@@ -3097,7 +3097,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844b858c6e5fa05ae5a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Fishing rod 45",
     "price": 552
   },
@@ -3133,25 +3133,25 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8441cfd68897831720e",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Backpack 74",
     "price": 222
   },
   {
     "id": "65afe844abdeb2a9550315c4",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Drill 11",
     "price": 51
   },
   {
     "id": "65afe844249186d95c7ac293",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sunglasses 40",
     "price": 903
   },
   {
     "id": "65afe8441736a249a7fcb5de",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Art supplies 66",
     "price": 991
   },
@@ -3187,7 +3187,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844474a6d860b930c40",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Candles 12",
     "price": 454
   },
@@ -3247,7 +3247,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844b05c93aa573d3405",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Flashlight 89",
     "price": 897
   },
@@ -3283,7 +3283,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8440f6c2326289c2c2b",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Laptop 79",
     "price": 638
   },
@@ -3307,13 +3307,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8444f74ca004d5b4115",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Travel toiletry bag 31",
     "price": 499
   },
   {
     "id": "65afe84492bb6c8b22f3d38a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Toaster 83",
     "price": 590
   },
@@ -3349,13 +3349,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84451e540ec3a4824b6",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Book 4",
     "price": 304
   },
   {
     "id": "65afe844c68cbddc0958ac82",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Oven 28",
     "price": 941
   },
@@ -3373,7 +3373,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844df4fc1209b2c38b4",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Smart thermostat 36",
     "price": 403
   },
@@ -3415,7 +3415,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8440d637ca1385ff8db",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Wireless mouse 40",
     "price": 125
   },
@@ -3427,7 +3427,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8440d50e903a15cd329",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Fishing rod 15",
     "price": 330
   },
@@ -3505,7 +3505,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84465a0ae8f58c599ed",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Yoga mat 37",
     "price": 587
   },
@@ -3517,13 +3517,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8444c25fea018657cf3",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Yoga mat 71",
     "price": 55
   },
   {
     "id": "65afe8443789810fdac73d63",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Tent 97",
     "price": 637
   },
@@ -3535,7 +3535,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8448bf2d84fbc7edd9a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Perfume 95",
     "price": 304
   },
@@ -3553,7 +3553,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844732bb16c4182dd86",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Surge protector 26",
     "price": 233
   },
@@ -3565,13 +3565,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8449e2aaf5ee34cb095",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Egg cooker 26",
     "price": 297
   },
   {
     "id": "65afe844ebe503c57b5ddf3f",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Running shorts 85",
     "price": 785
   },
@@ -3589,7 +3589,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8448cb0f2f2c5a755b7",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Picnic basket 40",
     "price": 96
   },
@@ -3643,7 +3643,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844bfdae371fddf10d2",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Rain boots 36",
     "price": 185
   },
@@ -3661,19 +3661,19 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84401496bd21ab41bb5",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Pencil case 60",
     "price": 975
   },
   {
     "id": "65afe84473ecce6aa402a7eb",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Handheld vacuum 82",
     "price": 253
   },
   {
     "id": "65afe84490b404fcd07caea3",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Hand sanitizer 64",
     "price": 146
   },
@@ -3799,7 +3799,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8441763315c2e5963b7",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Oven 24",
     "price": 58
   },
@@ -3811,7 +3811,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84487ef1fd7e9daac51",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Backpack 75",
     "price": 661
   },
@@ -3835,13 +3835,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8442f4455242d06818c",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Book 73",
     "price": 38
   },
   {
     "id": "65afe84418ed49f986623cd6",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Jeans 90",
     "price": 342
   },
@@ -3859,13 +3859,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8447489e65959e97140",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sunglasses 14",
     "price": 592
   },
   {
     "id": "65afe8444a1ae53c8dbd39ec",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Crockpot 90",
     "price": 803
   },
@@ -3877,7 +3877,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844f274ac06a65500e9",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Chair 22",
     "price": 304
   },
@@ -3961,7 +3961,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844cf674cdcc1fde0d3",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Plant 45",
     "price": 285
   },
@@ -3979,7 +3979,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8442a6fb69073df9e61",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Mirror 44",
     "price": 916
   },
@@ -4027,13 +4027,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84470ce520e83123a1b",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Cutting board 60",
     "price": 92
   },
   {
     "id": "65afe8442657cb9b0e5157a1",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Bike helmet 21",
     "price": 751
   },
@@ -4045,7 +4045,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844c5cc8bdcede16925",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Bedside lamp 15",
     "price": 638
   },
@@ -4057,7 +4057,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844463e9126eece16a6",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Dining table 7",
     "price": 400
   },
@@ -4111,7 +4111,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844768e12dc05c8c107",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Television 54",
     "price": 45
   },
@@ -4135,7 +4135,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844523d7c8d7d99316b",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Television 84",
     "price": 547
   },
@@ -4147,7 +4147,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844ec64d81d73b1fe09",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Coffee maker 68",
     "price": 508
   },
@@ -4219,7 +4219,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844daeec4bf8d8c62c1",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Bedside lamp 8",
     "price": 488
   },
@@ -4231,13 +4231,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8447f2ce7d620ec0d13",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Wall clock 57",
     "price": 959
   },
   {
     "id": "65afe8444eae7c1fa76b985c",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Coffee maker 78",
     "price": 122
   },
@@ -4255,7 +4255,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84480492c01221daf1d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Backpack 7",
     "price": 278
   },
@@ -4273,7 +4273,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8448656705c628b899a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Couch 71",
     "price": 150
   },
@@ -4321,7 +4321,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844bbd57a24e96e5558",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Ski gloves 51",
     "price": 954
   },
@@ -4381,7 +4381,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8447decfb2558929ea4",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Running shoes 100",
     "price": 890
   },
@@ -4405,7 +4405,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844f482eeb1bca09a1e",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Candles 29",
     "price": 554
   },
@@ -4417,19 +4417,19 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84411454f806974243c",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Ice cream maker 20",
     "price": 981
   },
   {
     "id": "65afe8448960fc212ecb3e80",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Wall clock 63",
     "price": 923
   },
   {
     "id": "65afe84481d2d0aa32a79ec5",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Wall clock 1",
     "price": 389
   },
@@ -4447,7 +4447,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844ef318961c5daef59",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Wall art 22",
     "price": 957
   },
@@ -4459,7 +4459,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844cd9613108571cc4f",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Fishing tackle box 73",
     "price": 565
   },
@@ -4489,13 +4489,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84433b3754ec044690b",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Laptop 2",
     "price": 541
   },
   {
     "id": "65afe84456b0190f4ee53940",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Hat 84",
     "price": 438
   },
@@ -4507,7 +4507,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844f956df6c234fecb6",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Travel toiletry bag 43",
     "price": 983
   },
@@ -4531,7 +4531,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844596d58d41463de48",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Dining table 92",
     "price": 231
   },
@@ -4543,7 +4543,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8441f536351dec45c23",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Running shorts 9",
     "price": 642
   },
@@ -4567,7 +4567,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844601b7e47c43c60a7",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Hiking boots 50",
     "price": 332
   },
@@ -4591,7 +4591,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844d37785ead0205be2",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Handheld vacuum 57",
     "price": 162
   },
@@ -4609,7 +4609,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84402c7f6a48b41d657",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Hand sanitizer 64",
     "price": 721
   },
@@ -4669,7 +4669,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8440630542827f2d630",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Egg cooker 23",
     "price": 922
   },
@@ -4699,7 +4699,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844eefedd05a04c5b9d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Cookbook 15",
     "price": 57
   },
@@ -4741,7 +4741,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844a5aa25453fe0d866",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Plant pot 67",
     "price": 72
   },
@@ -4759,7 +4759,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844163d54051e5bb7ed",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Candles 46",
     "price": 900
   },
@@ -4771,13 +4771,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84438aea86ab16c702c",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "T-shirt 16",
     "price": 671
   },
   {
     "id": "65afe8440cf3d36695c52451",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Travel pillow 79",
     "price": 395
   },
@@ -4807,7 +4807,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844bc0fb2be53363158",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Board shorts 79",
     "price": 313
   },
@@ -4825,7 +4825,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8446a0b38ed0051d1d4",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Cooling towel 89",
     "price": 181
   },
@@ -4837,7 +4837,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8449dc0323cc533e4be",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Cookbook 62",
     "price": 797
   },
@@ -4861,13 +4861,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8448710e24af9ece68d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Umbrella 50",
     "price": 549
   },
   {
     "id": "65afe8442a0f6b71adb30d00",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Towels 7",
     "price": 500
   },
@@ -4915,7 +4915,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8449a2e0db461906f84",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Wallet 58",
     "price": 320
   },
@@ -4927,7 +4927,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8446e2165b280f27c9a",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Cooling towel 40",
     "price": 900
   },
@@ -4993,7 +4993,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84486dff8740b984ab6",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Mirror 45",
     "price": 523
   },
@@ -5053,13 +5053,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844d137c0572aeb60f8",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Rain boots 94",
     "price": 907
   },
   {
     "id": "65afe844cec31390c93488a1",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Headphones 17",
     "price": 557
   },
@@ -5071,7 +5071,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8449a4ac652ccef7fad",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sunscreen 18",
     "price": 372
   },
@@ -5095,7 +5095,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844d4367eeda9860e2f",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Water bottle 13",
     "price": 912
   },
@@ -5113,13 +5113,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844af70152f4c98f2ad",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Portable fan 76",
     "price": 728
   },
   {
     "id": "65afe8448f8e5332e8a21ddc",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Raincoat 84",
     "price": 481
   },
@@ -5131,7 +5131,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844a95cf87fd57e8814",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sofa 77",
     "price": 892
   },
@@ -5191,13 +5191,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844aca3e0ea3259988b",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Wristwatch 89",
     "price": 828
   },
   {
     "id": "65afe844a1dfc1043164a7c4",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Carpet 67",
     "price": 290
   },
@@ -5233,7 +5233,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84454d35d4893854209",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Water filter 44",
     "price": 752
   },
@@ -5281,7 +5281,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844556195d2cd7806cb",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Binoculars 76",
     "price": 851
   },
@@ -5293,7 +5293,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844f03e088ac4ec5462",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Handbag 12",
     "price": 830
   },
@@ -5311,7 +5311,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8441be9ef734df9b1e3",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Duffle bag 87",
     "price": 121
   },
@@ -5365,7 +5365,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84443ffcd68dc51d88c",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Printer paper 5",
     "price": 151
   },
@@ -5377,7 +5377,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844e7b686fd345dceb6",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Camera 39",
     "price": 766
   },
@@ -5437,7 +5437,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844835bd5a664e89cc8",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Sneakers 48",
     "price": 916
   },
@@ -5485,7 +5485,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844dc9a0cae328857aa",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Grill pan 73",
     "price": 867
   },
@@ -5539,13 +5539,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844613aa724a9b0ebf1",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Cookbook 52",
     "price": 110
   },
   {
     "id": "65afe844e570dbc2934abc89",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Headphones 80",
     "price": 747
   },
@@ -5581,7 +5581,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844117103f301d33ae0",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Grill pan 4",
     "price": 866
   },
@@ -5599,7 +5599,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844d9bf132a3733e353",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Yoga mat 26",
     "price": 713
   },
@@ -5611,7 +5611,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844a001852c1ed73916",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "E-reader 16",
     "price": 133
   },
@@ -5623,13 +5623,13 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84456e78785ff365137",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Microwave 1",
     "price": 521
   },
   {
     "id": "65afe84408aa3aa990826fc5",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Portable fan 67",
     "price": 513
   },
@@ -5665,7 +5665,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84445cce863d8568e21",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Running shoes 47",
     "price": 438
   },
@@ -5743,7 +5743,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844ebf210d67ec7b65d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Duffle bag 50",
     "price": 125
   },
@@ -5767,7 +5767,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84470106a903791ed35",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Jeans 69",
     "price": 601
   },
@@ -5785,7 +5785,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844cb32902ee013dbd8",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Curtains 76",
     "price": 294
   },
@@ -5803,7 +5803,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84430f2e7fa794cbb2d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Camera 56",
     "price": 566
   },
@@ -5815,7 +5815,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe844e63b3df094f7943f",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Inflatable mattress 85",
     "price": 18
   },
@@ -5851,7 +5851,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84460645b04d743fafd",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Towels 66",
     "price": 430
   },
@@ -5881,7 +5881,7 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe8443bcc4fc3960beac8",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Tennis racket 17",
     "price": 897
   },
@@ -5899,37 +5899,37 @@ export const COMMODITIES = [
   },
   {
     "id": "65afe84425650247dbf59eee",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Snow boots 81",
     "price": 663
   },
   {
     "id": "65afe84480cb5e6e03dae735",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Jeans 8",
     "price": 382
   },
   {
     "id": "65afe844f7059cc88adeb83f",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Carpet 38",
     "price": 793
   },
   {
     "id": "65afe844de0c664c1c098da6",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Hat 95",
     "price": 302
   },
   {
     "id": "65afe844f02880aa97e6a43d",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Juicer 79",
     "price": 888
   },
   {
     "id": "65afe8446ce8439c4798d3c9",
-    "category": "cat2",
+    "category": "cat 2",
     "name": "Coffee table 72",
     "price": 656
   },

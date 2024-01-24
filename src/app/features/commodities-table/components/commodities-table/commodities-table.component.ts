@@ -1,10 +1,9 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import {Commodity} from '@models';
-import {COMMODITIES} from '@assets/mock-data';
 import {InputTextModule} from 'primeng/inputtext';
 import {SharedModule} from 'primeng/api';
 import {TableModule} from 'primeng/table';
+import {CommodityStore} from '@services';
 
 @Component({
   selector: 'app-commodities-table',
@@ -15,8 +14,6 @@ import {TableModule} from 'primeng/table';
   changeDetection: ChangeDetectionStrategy.OnPush
 })
 export class CommoditiesTableComponent {
-  data: Commodity[] = COMMODITIES;
-
-  customFilter(value: string, field: string) {
+  constructor(public readonly commodityStore: CommodityStore) {
   }
 }

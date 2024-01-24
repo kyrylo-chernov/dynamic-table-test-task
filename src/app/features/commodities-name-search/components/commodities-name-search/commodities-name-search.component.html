@@ -1,2 +1,4 @@
 <h3 class="heading">Search</h3>
-<input class="control" pInputText placeholder="Search by name">
+<form [formGroup]="searchForm">
+  <input class="control" pInputText formControlName="search" placeholder="Search by name">
+</form>

@@ -26,6 +26,7 @@
     "paths": {
       "@models": ["./src/app/models"],
       "@components": ["./src/app/components"],
+      "@services": ["./src/app/services"],
       "@features/*": ["./src/app/features/*"],
       "@assets/*": ["./src/assets/*"]
     }

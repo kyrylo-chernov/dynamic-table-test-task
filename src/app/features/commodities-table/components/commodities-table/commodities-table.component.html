@@ -1,19 +1,28 @@
-<p-table [value]="data" [paginator]="true" [totalRecords]="data.length" [rows]="5"
-         [rowsPerPageOptions]="[5, 10, 20]">
+<p-table
+  *ngIf="commodityStore.commodities$ | async as data"
+  [value]="data"
+  [paginator]="true"
+  [totalRecords]="data.length"
+  [rows]="10"
+  [rowsPerPageOptions]="[5, 10, 20]"
+>
+
+  <ng-template pTemplate="emptymessage">
+    <tr>
+      <td>No results</td>
+    </tr>
+  </ng-template>
 
   <ng-template pTemplate="header">
     <tr>
       <th>
         <span>Name</span>
-<!--        <input pInputText type="text" #nameFilter (input)="customFilter(nameFilter.value, 'name')" placeholder="Name">-->
       </th>
       <th>
         <span>Category</span>
-        <!--        <input pInputText type="text" #categoryFilter (input)="customFilter(categoryFilter.value, 'category')" placeholder="Category">-->
       </th>
       <th>
         <span>Price</span>
-<!--        <input pInputText type="text" #priceFilter (input)="customFilter(priceFilter.value, 'price')" placeholder="Price">-->
       </th>
     </tr>
   </ng-template>
@@ -25,4 +34,5 @@
       <td>{{rowData.price | currency}}</td>
     </tr>
   </ng-template>
+
 </p-table>
