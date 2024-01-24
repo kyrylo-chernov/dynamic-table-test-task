@@ -1,27 +1,65 @@
-# FilteringApplication
+# Dynamic Data Filtering Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+This is a test task for a Dynamic Data Filtering Application built with Angular. The application features a commodities table and utilizes a feature-based architecture.
 
-## Development server
+## Table of Contents
+1. [Prerequisites](#prerequisites)
+2. [Installation](#installation)
+3. [Architecture](#architecture)
+4. [Folder Structure](#folder-structure)
+5. [How to Run](#how-to-run)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Prerequisites
 
-## Code scaffolding
+Before running the application, make sure you have the following installed:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Node.js and npm
+- Angular CLI (`npm install -g @angular/cli`)
 
-## Build
+## Installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Clone the repository:
 
-## Running unit tests
+```bash
+git clone <repository-url>
+cd <repository-folder>
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Install dependencies:
 
-## Running end-to-end tests
+```bash
+npm install
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Architecture
 
-## Further help
+The application follows a feature-based architecture, organizing code into feature modules. Each feature has its own folder, containing smart components, models, pipes, and utils. This structure promotes modularity and maintainability.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Folder Structure
+
+- **src/app/features**: Contains feature modules, especially smart components.
+- **src/app/components**: Smart components reside here.
+- **src/app/models**: Data models used in the application.
+- **src/app/pipes**: Custom pipes for data transformation.
+- **src/app/utils**: Utility functions for services.
+- **src/app/services**: Core services for application data.
+
+## How to Run
+
+To run the application, use the following npm script:
+
+```bash
+npm start
+```
+
+This command will start the Angular development server. Open your browser and navigate to `http://localhost:4200/` to view the application.
+
+## Testing
+
+To run unit tests, use the following npm script:
+
+```bash
+npm test
+```
+
+### Have a nice review Mr. Developer!
