@@ -8,6 +8,7 @@ interface FilterState extends Partial<FilterFields> {
 @Injectable({ providedIn: 'root' })
 export class FilterStore extends ComponentStore<FilterState> {
   public readonly filters$ = this.select(state => state);
+  public readonly sortOrder$ = this.select(state => state.sortOrder);
 
   constructor() {
     super({});

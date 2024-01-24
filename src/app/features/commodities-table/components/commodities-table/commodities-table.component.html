@@ -3,8 +3,11 @@
   [value]="data"
   [paginator]="true"
   [totalRecords]="data.length"
-  [rows]="10"
+  [rows]="5"
   [rowsPerPageOptions]="[5, 10, 20]"
+  [customSort]="true"
+  [sortOrder]="filterStore.sortOrder$ | async | sortOrder"
+  (onSort)="setSorting($event)"
 >
 
   <ng-template pTemplate="emptymessage">
@@ -21,8 +24,8 @@
       <th>
         <span>Category</span>
       </th>
-      <th>
-        <span>Price</span>
+      <th pSortableColumn="price">
+        <span>Price</span> <p-sortIcon field="price"></p-sortIcon>
       </th>
     </tr>
   </ng-template>
@@ -30,8 +33,8 @@
   <ng-template pTemplate="body" let-rowData>
     <tr>
       <td>{{rowData.name}}</td>
-      <td>{{rowData.category}}</td>
-      <td>{{rowData.price | currency}}</td>
+      <td class="details-column"><p-chip label="{{rowData.category}}"></p-chip></td>
+      <td class="details-column">{{rowData.price | currency}}</td>
     </tr>
   </ng-template>
 

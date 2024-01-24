@@ -1,7 +1,8 @@
 import {Injectable} from '@angular/core';
-import {from, Observable, tap} from 'rxjs';
+import {from, map, Observable} from 'rxjs';
 import {Commodity, FilterFields} from '@models';
 import {COMMODITIES} from '@assets/mock-data';
+import {quickSortByProperty} from '@utils';
 
 @Injectable({ providedIn: 'root' })
 export class DataService {
@@ -32,7 +33,11 @@ export class DataService {
           priceToFilteredArray,
           (item) => (!filters.search || item.name.toLowerCase().includes(filters.search.toLowerCase())));
       })()
-    );
+    ).pipe(map(
+      commodities => filters.sortOrder ?
+          quickSortByProperty(commodities, 'price', filters.sortOrder) :
+        commodities
+    ));
   }
 
   private filterArrayAsync<T>(array: T [], filterFunction: (item: any) => boolean): Promise<T[]> {

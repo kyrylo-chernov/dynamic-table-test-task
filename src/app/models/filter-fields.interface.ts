@@ -3,4 +3,5 @@ export interface FilterFields {
   priceFrom: number;
   priceTo: number;
   search: string;
+  sortOrder?: 'asc' | 'desc';
 }
