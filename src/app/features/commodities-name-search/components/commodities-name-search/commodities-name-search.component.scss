@@ -3,6 +3,15 @@
   margin-bottom: 0.5rem;
 }
 
-.control {
+.control-wrapper {
   width: clamp(12rem, 50%, 20rem);
+}
+
+.control {
+  width: 100%;
+}
+
+.control-clear {
+  margin: 0 1rem;
+  cursor: pointer;
 }

@@ -1,4 +1,18 @@
 <h3 class="heading">Search</h3>
 <form [formGroup]="searchForm">
-  <input class="control" pInputText formControlName="search" placeholder="Search by name">
+  <span class="p-input-icon-right control-wrapper">
+    <input
+      #search
+      pInputText
+      class="control"
+      formControlName="search"
+      placeholder="Search by name"
+    >
+    <i class="pi pi-search"></i>
+  </span>
+  <i
+    *ngIf="search.value"
+    class="pi pi-times control-clear"
+    (click)="searchForm.get('search')?.setValue('')"
+  ></i>
 </form>
